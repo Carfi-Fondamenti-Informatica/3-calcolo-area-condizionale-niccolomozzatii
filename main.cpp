@@ -5,15 +5,15 @@ int main() {
     int opzione=0;
     cin >> a >> b >> opzione;
     switch(opzione) {
-        case 1:
+        case 0:
             x = (a * b) / 2;
             cout << x << endl;
             break;
-        case 2:
+        case 1:
             x = a * a;
             cout << x << endl;
             break;
-        case 3:
+        case 2:
             x = a * b;
             cout << x << endl;
            default:
