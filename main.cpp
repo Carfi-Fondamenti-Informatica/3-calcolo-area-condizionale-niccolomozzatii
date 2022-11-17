@@ -17,7 +17,7 @@ int main() {
             x = a * b;
             cout << x << endl;
            default:
-            cout << "istruzione non valida" << endl;
+            cout << "opzione non valida" << endl;
   }
    return 0;
 }
