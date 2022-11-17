@@ -16,8 +16,7 @@ int main() {
         case 3:
             x = a * b;
             cout << x << endl;
-            break;
-        default:
+           default:
             cout << "istruzione non valida" << endl;
   }
    return 0;
